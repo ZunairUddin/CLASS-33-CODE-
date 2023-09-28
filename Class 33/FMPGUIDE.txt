@@ -1,0 +1,30 @@
+DATABASE 
+
+users -> uuid-> user detail -> todos -> tododata
+
+
+QUIZ APP
+
+USER / CLIENT SIDE
+
+ADMIN PANEL
+//sIGNUP
+// uid -> userType = "admin/user", isAdmin = true | false
+
+
+//login Page
+//ADD QUIZ PAGE
+
+     var questionData=   {
+    question: "What is the Full Form Of HTML?", // input for question
+    options: [
+      "HyperText Makeup Language",
+      "HyperText Markup Language",
+      "HyperText Markup Lame",
+      "HyperTate Markup Language",
+    ],
+    answer: "HyperText Markup Language",
+    questionID : 'weasdasd'
+  },
+
+	set('asdasdasd',questionData)
